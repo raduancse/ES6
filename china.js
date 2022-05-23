@@ -8,3 +8,4 @@ function cosmetic(){
 }
 
 export {laptop,phone,cosmetic};
+
